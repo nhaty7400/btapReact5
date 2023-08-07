@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import FormSinhVien from './formSinhVien'
 import TableSinhVien from './tableSinhVien'
-import Search from '../Search'
+import Search from './Search'
 
 
 export default class BaiTapForm

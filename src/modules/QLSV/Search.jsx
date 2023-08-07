@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import { timSinhVienCreator } from "../redux/QLSV/QLSV.action";
+import { timSinhVienCreator } from "../../redux/QLSV/QLSV.action";
 
 class Search extends Component {
   render() {
